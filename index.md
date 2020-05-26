@@ -4,7 +4,7 @@
 
 副署可以
 
-##例子
+## 例子
 
 * 添加英文名： `WONG Yat Sum` → `WONG Yat Sum Chris`；`WONG Yat Sum` → `WONG Chris Yat Sum`
 * 刪減英文名： `WONG Yat Sum Chris` → `WONG Yat Sum`；`WONG Chris Yat Sum` → `WONG Yat Sum`
