@@ -16,8 +16,7 @@
 * 添加英文名： `Yat Sum WONG` → `Yat Sum Chris WONG`；`Yat Sum WONG` → `Chris Yat Sum WONG`
 * 刪減英文名： `Yat Sum Chris WONG` → `Yat Sum WONG`；`Chris Yat Sum WONG` → `Yat Sum WONG`
 * 改變名字次序： `Yat Sum Chris WONG` → `Chris Yat Sum WONG`；`Chris Yat Sum WONG` → `Yat Sum Chris WONG`
-* 改變拼音： ` Yat Shum WONG` → ` Yat Sum WONG`
-
+* 改變拼音/直接改名： `Yat Shum WONG` → `Yat Sum WONG`；`Yat Sum WONG` → `Tze Ling WONG`
 
 以下情況唔使補簽改名契：
 * 姓氏（surname）放前/放後並不重要： `Yat Sum Chris WONG` = `WONG Yat Sum Chris`；`Chris Yat Sum WONG` = `WONG Chris Yat Sum`；`Yat Sum WONG` = `WONG Yat Sum`
