@@ -13,3 +13,4 @@
 
 以下情況不需要改名契：
 * 姓氏（surname）放前/放後並不重要： `Yat Sum Chris WONG` = `WONG Yat Sum Chris`；`Chris Yat Sum WONG` = `WONG Chris Yat Sum`；`Yat Sum WONG` = `WONG Yat Sum`
+* 證件上不會出現中間名（middle name），改變中間名毋須改名契。多於一個字的名字（given name），不算是中間名。香港人一般沒有中間名。
