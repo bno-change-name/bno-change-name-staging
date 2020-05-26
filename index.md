@@ -1,37 +1,4 @@
 # BN(O)英國改名契
 
-You can use the [editor on GitHub](https://github.com/bno-change-name/bno-change-name-staging/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+香港入境處容許18歲之前免改名契，喺香港身份證上加減英文名，或者改變名字次序。英國法律唔承認咁樣非正式地改名，所以 HM Passport Office 見到身份證同舊BN(O)護照個名唔同，就會要求你提供一份改名契以茲證明。你可以喺遞交BN(O)續期申請時附上改名契，亦可以事後補簽。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bno-change-name/bno-change-name-staging/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
