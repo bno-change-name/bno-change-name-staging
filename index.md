@@ -6,6 +6,10 @@
 
 ## 例子
 
-* 添加英文名： `WONG Yat Sum` → `WONG Yat Sum Chris`；`WONG Yat Sum` → `WONG Chris Yat Sum`
-* 刪減英文名： `WONG Yat Sum Chris` → `WONG Yat Sum`；`WONG Chris Yat Sum` → `WONG Yat Sum`
-* 改變名字次序： `WONG Yat Sum Chris` → `WONG Chris Yat Sum`；`WONG Chris Yat Sum` → `WONG Yat Sum Chris`
+以下情況需要補簽改名契：
+* 添加英文名： `Yat Sum WONG` → `Yat Sum Chris WONG`；`Yat Sum WONG` → `Chris Yat Sum WONG`
+* 刪減英文名： `Yat Sum Chris WONG` → `Yat Sum WONG`；`Chris Yat Sum WONG` → `Yat Sum WONG`
+* 改變名字次序： `Yat Sum Chris WONG` → `Chris Yat Sum WONG`；`Chris Yat Sum WONG` → `Yat Sum Chris WONG`
+
+以下情況不需要改名契：
+* 改變姓氏次序： `Yat Sum Chris WONG` = `WONG Yat Sum Chris`；`Chris Yat Sum WONG` = `WONG Chris Yat Sum`；`Yat Sum WONG` = `WONG Yat Sum`
