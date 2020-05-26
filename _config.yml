@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: BN(O) 改名契填表機
 description: 
-site.github.is_project_page: false
+github.is_project_page: false
