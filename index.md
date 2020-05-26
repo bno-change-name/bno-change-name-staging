@@ -2,3 +2,10 @@
 
 香港入境處容許18歲之前免改名契，喺香港身份證上加減英文名，或者改變名字次序。英國法律唔承認咁樣非正式地改名，所以 HM Passport Office 見到身份證同舊BN(O)護照個名唔同，就會要求你提供一份改名契以茲證明。你可以喺遞交BN(O)續期申請時附上改名契，亦可以事後補簽。
 
+副署可以
+
+##例子
+
+* 添加英文名： `WONG Yat Sum` → `WONG Yat Sum Chris`；`WONG Yat Sum` → `WONG Chris Yat Sum`
+* 刪減英文名： `WONG Yat Sum Chris` → `WONG Yat Sum`；`WONG Chris Yat Sum` → `WONG Yat Sum`
+* 改變名字次序： `WONG Yat Sum Chris` → `WONG Chris Yat Sum`；`WONG Chris Yat Sum` → `WONG Yat Sum Chris`
