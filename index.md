@@ -19,4 +19,4 @@
 * 你可於遞交 BN(O) 續期申請時附上改名契，亦可以事後補簽。
 * 改名契需要親筆簽署，及至少一名見證人副署。見證人須年滿18歲，可以係 BN(O) 續期申請嘅副署人。
 * 新舊姓名兩次簽署建議一式一樣，而且同 BN(O) 續期申請簽署一樣。
-* [範本](https://www.gov.uk/change-name-deed-poll/make-an-adult-deed-poll)用字來自英國政府，HM Passport Office 一般會接受。 
+* [範本](https://www.gov.uk/change-name-deed-poll/make-an-adult-deed-poll)用字來自英國政府經測試，HM Passport Office 會接受。 
