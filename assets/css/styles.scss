@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  background-image: url(https://bno-change-name.github.io/bno-change-name-staging/assets/images/old-passport.png);
+  background-image: url('../images/old-passport.png');
   background-size: cover;
   background-position-y: top;
 }
