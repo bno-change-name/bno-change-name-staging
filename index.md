@@ -17,6 +17,10 @@
 * 姓氏（surname）放前/放後並不重要： `Yat Sum Chris WONG` = `WONG Yat Sum Chris`；`Chris Yat Sum WONG` = `WONG Chris Yat Sum`；`Yat Sum WONG` = `WONG Yat Sum`
 * 證件上唔會出現中間名（middle name），改變中間名毋須填報，亦毋須改名契。多於一個字嘅名字（given name），唔算係中間名。香港人一般唔會有中間名。
 
+其他情況都可以用：
+* 遺失改名契
+* 已持有有效 BN(O) 護照而想改名（沒有有效護照的話要先更改身份證名字，故不建議）
+
 ## 說明及用法
 
 * 建議於遞交 BN(O) 續期申請時附上改名契。亦可以事後補交。
