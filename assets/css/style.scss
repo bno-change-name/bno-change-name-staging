@@ -5,7 +5,8 @@
 
 /* custom style */
 .page-header {
-  background-image: url('../images/old-passport.png');
+  background: url(../images/old-passport.png) rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position-y: top;
+  background-blend-mode: multiply;
 }
