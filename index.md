@@ -35,20 +35,18 @@ layout: index
 
 ## 個人資料私隱
 
-* 我哋絕對冇、唔會、兼拒絕收集任何個人資料。技術上，所有個人資料只會停留喺用戶嘅電腦詳情請參閱以下條款。
+* 技術上，所有個人資料只會停留喺用戶嘅電腦。我哋唔會收集任何個人資料。詳情請參閱以下條款。
 
 ### 軟件條款及版權
-[bno-change-name contributors](https://github.com/bno-change-name/bno-change-name-staging/graphs/contributors)（下稱作者）提供此「BN(O) 改名契 DIY」（下稱工具），旨在希望它有用而能夠簡化製作法律文件的繁瑣步驟。作者只提供法律文件範本。作者不提供法律意見。作者不會收集任何你在使用此工具時填寫的個人資料。此工具在你的裝置上直接產生法律文件檔案，此工具一經載入，不會提交資料至任何伺服器。儘管此工具的設計會避免使個人資料外洩，你亦必須明白作者不能控制你的使用方式，亦不能保證你用來使用此工具的網絡、裝置、操作系統及瀏覽器軟件沒有缺陷（包括安全缺陷）並因此造成資料外洩。
 
-GNU General Public License V3 GNU通用公共授權條款 V3
+<!-- This tool is distributed by the [bno-change-name contributors](https://github.com/bno-change-name/bno-change-name-staging/graphs/contributors) in the hope that it will be useful, and could simply the process of creating a legal document. The contributors provide legal forms. The contributors do not give legal advices. The contributors do not collect your personal data. This tool would generate files of legal forms on your device，once loaded, would not submit data to any server. Although this tool does mitigate the risk of data breach, you must understand that the contributors could not control how you choose to use this tool，and could not guarantee that your network
 
-版權所有(C) 2020 [bno-change-name contributors](https://github.com/bno-change-name/bno-change-name-staging/graphs/contributors)
+提供此「BN(O) 改名契 DIY」（下稱工具），旨在希望它有用而能夠簡化製作法律文件的步驟。作者只提供法律文件範本。作者不提供法律意見。作者不會收集你的個人資料。此工具會在你的裝置上產生法律文件檔案，此工具一經載入，不會提交資料至任何伺服器。儘管此工具的設計會避免使個人資料外洩，你必須明白作者不能控制你的使用方式，亦不能保證你用來使用此工具的網絡、裝置、操作系統及瀏覽器軟件沒有缺陷（包括安全缺陷）並因此造成資料外洩。-->
 
-本程式爲自由軟體；您可依據自由軟體基金會所發表的GNU通用公共授權條款，對本程式再次發佈和/或修改；無論您依據的是本授權的第三版，或（您可選的）任一日後發行的版本。
 
-本程式是基於使用目的而加以發佈，然而不負任何擔保責任；亦無對適售性或特定目的適用性所爲的默示性擔保。詳情請參照GNU通用公共授權。
+[bno-change-name contributors](https://github.com/bno-change-name/bno-change-name-staging/graphs/contributors)（下稱作者）散佈此「BN(O) 改名契 DIY」（下稱工具），旨在希望它有用而能夠簡化製作法律文件的繁瑣步驟。作者只提供法律文件範本。作者不提供法律意見。作者不會收集任何你在使用此工具時填寫的個人資料。此工具在你的裝置上直接產生法律文件檔案，此工具一經載入，不會提交資料至任何伺服器。儘管此工具的設計會避免使個人資料外洩，你亦必須明白作者不能控制你的使用方式，亦不能保證你用來使用此工具的網絡、裝置、操作系統及瀏覽器軟件沒有缺陷（包括安全缺陷）並因此造成資料外洩。
 
-您應已收到附隨於本程式的GNU通用公共授權的副本；如果沒有，請參照.
+GNU General Public License V3
 
 Copyright (C) 2020 [bno-change-name contributors](https://github.com/bno-change-name/bno-change-name-staging/graphs/contributors)
 
@@ -56,4 +54,14 @@ This program is free software: you can redistribute it and/or modify it under th
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License along with this program. If not, see .
+You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/gpl-3.0.en.html .
+
+GNU通用公共授權條款 V3
+
+版權所有(C) 2020 [bno-change-name contributors](https://github.com/bno-change-name/bno-change-name-staging/graphs/contributors)
+
+本程式爲自由軟體；您可依據自由軟體基金會所發表的GNU通用公共授權條款，對本程式再次發佈和/或修改；無論您依據的是本授權的第三版，或（您可選的）任一日後發行的版本。
+
+本程式是基於使用目的而加以發佈，然而不負任何擔保責任；亦無對適售性或特定目的適用性所爲的默示性擔保。詳情請參照GNU通用公共授權。
+
+您應已收到附隨於本程式的GNU通用公共授權的副本；如果沒有，請參照 https://www.gnu.org/licenses/gpl-3.0.en.html 。
