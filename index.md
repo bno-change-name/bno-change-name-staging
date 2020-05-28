@@ -33,8 +33,11 @@ layout: index
 * 新舊姓名兩次簽署建議一式一樣，而且同 BN(O) 續期申請簽署一樣。
 * [範本](https://www.gov.uk/change-name-deed-poll/make-an-adult-deed-poll)用字來自英國政府。我哋測試過，HM Passport Office 會接受。
 
+## 個人資料私隱
 
-## 授權
+* 我哋絕對冇、唔會、拒絕收集任何個人資料。技術上，所有個人資料只會停留喺用戶嘅電腦。詳情請參閱以下條款。
+
+### 軟件條款及版權
 [bno-change-name contributors](https://github.com/bno-change-name/bno-change-name-staging/graphs/contributors)（作者）提供此「BN(O) 改名契 DIY」（下稱工具），旨在希望它有用而能夠簡化製作法律文件的繁瑣步驟。作者不會收集任何你在使用此工具時填寫的個人資料。此工具在你的裝置上直接產生法律文件檔案，此工具一經載入，不會提交資料至任何伺服器。儘管此工具的設計會避免使個人資料外洩，你亦必須明白作者不能控制你的使用方式，亦不能保證你用來使用此工具的網絡、裝置、操作系統及瀏覽器軟件沒有缺陷（包括安全缺陷）並因此造成資料外洩。
 
 GNU General Public License V3 GNU通用公共授權條款 V3
